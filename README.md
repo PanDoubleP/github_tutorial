@@ -1,2 +1,2 @@
 # github_tutorial
-This repository is for practicing the GitHub Flow
+HI, my name is Paulwit Fakfaiphol.
